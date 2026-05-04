@@ -1,0 +1,36 @@
+---
+title: "Lab 11 - Grading the professor, Pt. 2"
+author: "Insert your name here"
+date: "Insert date here"
+output: github_document
+---
+
+## Load packages and data
+
+```{r load-packages, message=FALSE}
+library(tidyverse) 
+library(tidymodels)
+library(openintro)
+```
+
+## Exercise 1
+
+*Provide your answer here.*  
+Add code chunks as needed. Ensure code chunks are properly labeled without spaces.
+
+```{r exercise1_code}
+# Add your R code here
+```
+
+## Exercise 2
+
+*Provide your answer here.*  
+Add code chunks as needed.
+
+```{r exercise2_code}
+# Add your R code here
+```
+
+## Additional Exercises
+
+*Repeat the format above for additional exercises.*
